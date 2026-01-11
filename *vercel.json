@@ -1,4 +1,4 @@
-/{
+{
   "functions": {
     "api/number.js": {
       "maxDuration": 10
